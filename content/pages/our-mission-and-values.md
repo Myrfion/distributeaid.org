@@ -1,4 +1,5 @@
 ---
+template: DAPageGeneric
 title: Our Mission and Values
 slug: our-mission
 desc: ''
