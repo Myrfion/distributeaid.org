@@ -1,13 +1,7 @@
 ---
-title: Tech for Good
-abstract: |-
-  This is the abstract that is shown on the overview page. It should give a brief overview over the project in one or two paragraphs.
-
-  Vivamus diam felis, pellentesque eget fringilla ut, pharetra in orci. Suspendisse eleifend, lorem nec tristique consectetur, ligula mi finibus nibh, a finibus diam ante vitae nisi. Aliquam porttitor lacus eget purus viverra, sagittis interdum justo aliquam.
+title: Tech 4 Good
 gallery:
   - url: /uploads/fundraisers/tech-for-good-hero.jpg
-    alt: a volunteer holding up some clothes to a little girl to check for size
-  - url: /uploads/fundraisers/sustainable-supply-chains-hero.jpg
     alt: a computer screen displaying code
   - url: /uploads/fundraisers/tech-for-good-gallery-02.jpg
     alt: volunteers huddled together, posing for a photo

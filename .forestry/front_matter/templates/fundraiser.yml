@@ -10,15 +10,6 @@ fields:
     min: 2
   label: Title
   description: The title of the fundraiser.
-- name: abstract
-  type: textarea
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Abstract
-  description: This text appears on the overview page
 - type: field_group_list
   name: allocations
   label: Funding allocations
@@ -77,9 +68,9 @@ fields:
     required: true
     min: 1
 pages:
-- content/blocks/fundraisers/european-refugee-response.md
+- content/blocks/fundraisers/european-refugee-relief.md
 - content/blocks/fundraisers/humanitarian-logistics.md
 - content/blocks/fundraisers/sustainable-supply-chains.md
 - content/blocks/fundraisers/tech-for-good.md
-- content/blocks/fundraisers/ukraine-response-project.md
+- content/blocks/fundraisers/ukraine-response.md
 - content/blocks/fundraisers/us-disaster-relief.md

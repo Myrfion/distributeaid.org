@@ -10,10 +10,6 @@ export type Fundraiser = {
   /**
    * Markdown
    */
-  abstract: string
-  /**
-   * Markdown
-   */
   body: string
   /**
    * Image URLs

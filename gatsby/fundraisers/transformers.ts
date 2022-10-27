@@ -33,7 +33,6 @@ export const createFundraisersFromMarkdown = ({
     createNode({
       name: fileName,
       title: fm.title,
-      abstract: fm.abstract,
       gallery: fm.gallery,
       allocations: fm.allocations,
       body: node.rawMarkdownBody,

@@ -1,9 +1,5 @@
 ---
 title: Humanitarian Logistics
-abstract: |-
-  This is the abstract that is shown on the overview page. It should give a brief overview over the project in one or two paragraphs.
-
-  Integer feugiat nibh at feugiat dictum. Aliquam non tortor at diam congue posuere.
 gallery:
   - url: /uploads/fundraisers/humanitarian-logistics-hero.jpg
     alt: a container port
@@ -24,36 +20,12 @@ allocations:
     purpose: This text describes the purpose the allocated funds will be used for.
 ---
 
-This is the detailed project description shown on the project page.
+Creating sustainable supply chains across the humanitarian relief sector is critical to ensure that aid groups have access to the resources necessary to meet the needs of the communities they serve. Without specialized logistical processes in place for the sourcing, allocation and delivery of material aid, the sector can suffer significantly. 
 
-It should describe in detail what this project is about. Markdown can be used to structure longer texts.
+Distribute Aid 
 
-## This is a headline (h2)
+- Provide customs brokers across different regions to facilitate with the import and export of humanitarian aid - supporting our beneficiaries with sending and receiving aid with minimal disruptions.
+  - £40 per customs entry 
+- Funding the training course to obtainThe Certification in Humanitarian Supply Chain Management (CHSCM); for our logistics coordinators.
+  - £2200 per LC
 
-![Alternative Text](/uploads/how-we-help-refugees.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum lectus nec malesuada mollis. Proin imperdiet euismod dui a scelerisque. Maecenas commodo id nibh eu aliquam. Vestibulum ac sapien metus. Mauris in congue dolor. Integer venenatis ligula tellus, sed eleifend mi pulvinar et. Nulla egestas orci in ante consectetur, in dapibus massa ultrices. Suspendisse quis turpis eget sapien tempus tristique ac fringilla massa. Ut hendrerit faucibus commodo. Vivamus diam felis, pellentesque eget fringilla ut, pharetra in orci. Suspendisse eleifend, lorem nec tristique consectetur, ligula mi finibus nibh, a finibus diam ante vitae nisi. Aliquam porttitor lacus eget purus viverra, sagittis interdum justo aliquam. Cras ut blandit neque. Vivamus vitae nisi nisl. Vestibulum nec augue vitae mauris bibendum commodo. Proin id mauris a velit posuere mollis eu eget justo.
-
-Mauris blandit molestie augue, quis feugiat eros pharetra a. Proin pretium libero non augue faucibus interdum. Donec vitae est eget leo pellentesque efficitur at vitae dolor. Nulla tortor odio, mattis in tincidunt hendrerit, sollicitudin non massa. Vestibulum in turpis dapibus lacus semper ornare. Pellentesque auctor tempor mauris, eget faucibus nunc lobortis vel. Curabitur luctus sem at ullamcorper venenatis. Integer consectetur leo ac tristique venenatis. Duis in egestas mi.
-
-Aenean ultricies enim augue, eu dictum nisl eleifend quis. Nam consequat, massa id porttitor finibus, augue dolor sagittis felis, vel pellentesque odio nibh in erat. Donec sodales efficitur dolor a consequat. Mauris iaculis luctus ipsum sed pretium. Donec nec lorem nibh. Praesent ultrices faucibus odio, non cursus dolor consequat in. Nam eget dui in erat iaculis condimentum. Quisque lacus libero, mattis et congue id, congue nec orci. In volutpat lacus a nulla posuere, eu consequat dui maximus. In finibus sapien ac dui ornare, sit amet interdum felis tincidunt. Fusce ultricies, urna in cursus laoreet, felis tortor tempus turpis, ac molestie nulla magna eu nibh. Phasellus luctus dignissim ornare. Integer feugiat nibh at feugiat dictum. Aliquam non tortor at diam congue posuere.
-
-## Images are supported
-
-![Sample Image](/uploads/sus.png)
-
-## Lists are supported
-
-- Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-- Cras dictum, enim at dictum rutrum, risus ligula dictum arcu, sed pharetra erat ante et tortor. Duis lobortis sed sapien viverra tempor. Mauris efficitur imperdiet erat, et pharetra libero tristique sit amet. 
-  - Vivamus convallis sagittis quam, a condimentum justo semper eget.
-  - Donec et egestas nibh.
-  - Etiam magna dui, accumsan a nisl vitae, pharetra suscipit turpis. 
-- Nullam pretium iaculis arcu id efficitur. Fusce blandit ante orci, pellentesque sollicitudin odio porta et. Donec blandit vehicula est ut laoreet.
-
-1. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-1. Cras dictum, enim at dictum rutrum, risus ligula dictum arcu, sed pharetra erat ante et tortor. Duis lobortis sed sapien viverra tempor. Mauris efficitur imperdiet erat, et pharetra libero tristique sit amet. 
-  1. Vivamus convallis sagittis quam, a condimentum justo semper eget.
-  1. Donec et egestas nibh.
-  1. Etiam magna dui, accumsan a nisl vitae, pharetra suscipit turpis. 
-1. Nullam pretium iaculis arcu id efficitur. Fusce blandit ante orci, pellentesque sollicitudin odio porta et. Donec blandit vehicula est ut laoreet.

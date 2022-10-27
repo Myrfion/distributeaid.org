@@ -52,20 +52,22 @@ const DonatePage: FC<Props> = ({
     thumbnails500px: { nodes: thumbnails500px },
   },
 }) => {
-  fundraisers.forEach((fundraiser) => {
-    fundraiser.gallery = fundraiser.gallery.map((photo) => {
-      const gatsbyImageData = thumbnails500px.find(
-        ({ parent: { absolutePath } }) => absolutePath.endsWith(photo.url),
-      )?.gatsbyImageData
-      if (gatsbyImageData === undefined) {
-        console.error(`Could not find gatsbyImageData for ${photo.url}`)
-      }
-      return {
-        ...photo,
-        gatsbyImageData,
-      }
+  fundraisers
+    .sort(() => Math.random() - Math.random())
+    .forEach((fundraiser) => {
+      fundraiser.gallery = fundraiser.gallery.map((photo) => {
+        const gatsbyImageData = thumbnails500px.find(
+          ({ parent: { absolutePath } }) => absolutePath.endsWith(photo.url),
+        )?.gatsbyImageData
+        if (gatsbyImageData === undefined) {
+          console.error(`Could not find gatsbyImageData for ${photo.url}`)
+        }
+        return {
+          ...photo,
+          gatsbyImageData,
+        }
+      })
     })
-  })
 
   return (
     <SimpleLayout
@@ -121,7 +123,6 @@ export const pageQuery = graphql`
         id
         name
         title
-        abstract
         gallery {
           url
           alt

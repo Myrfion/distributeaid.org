@@ -27,7 +27,6 @@ export const createFundraisersPages = async ({
           id
           name
           title
-          abstract
           gallery {
             url
             alt
@@ -105,7 +104,6 @@ export const createFundraisersPages = async ({
         id: fundraiser.id,
         name: fundraiser.name,
         title: fundraiser.title,
-        abstract: fundraiser.abstract,
         gallery: fundraiser.gallery.map((photo) => {
           const gatsbyImageData = data?.thumbnails500px?.nodes.find(
             ({ parent: { absolutePath } }) => absolutePath.endsWith(photo.url),
