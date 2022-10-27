@@ -6,23 +6,23 @@ abstract: |-
   In finibus sapien ac dui ornare, sit amet interdum felis tincidunt. Fusce ultricies, urna in cursus laoreet, felis tortor tempus turpis, ac molestie nulla magna eu nibh. Phasellus luctus dignissim ornare. 
 gallery:
   - url: /uploads/fundraisers/european-refugee-response-hero.jpg
-    alt: Alternative Text, but very long to show wrapping of alternative text.
+    alt: a man giving a cardboard box (marked with a Ukrainian flag) full of aid to two women in need
   - url: /uploads/fundraisers/ukraine-response-project-hero.jpg
-    alt: Alternative Text
+    alt: a refugee camp, with three young children with the backs turned walking in the distance
   - url: /uploads/fundraisers/european-refugee-response-gallery-02.jpg
-    alt: Alternative Text
+    alt: four volunteers sorting through donated clothes in a makeshift warehouse
   - url: /uploads/fundraisers/european-refugee-response-gallery-03.jpg
-    alt: Alternative Text
+    alt: a volunteer holding up donated food items for babies – that have been delivered, in a warehouse
   - url: /uploads/fundraisers/european-refugee-response-gallery-04.jpg
-    alt: Alternative Text
+    alt: people unloading pallets of aid from a container onto a pick-up truck
   - url: /uploads/fundraisers/european-refugee-response-gallery-05.jpg
-    alt: Alternative Text
+    alt: a man sorting through donations of clothes in a warehouse
   - url: /uploads/fundraisers/european-refugee-response-gallery-06.jpg
-    alt: Alternative Text
+    alt: a group of volunteers putting away donated items into a warehouse space
   - url: /uploads/fundraisers/european-refugee-response-gallery-07.jpg
-    alt: Alternative Text
+    alt: a woman receiving bars of soap from a volunteer handing them out
   - url: /uploads/fundraisers/european-refugee-response-gallery-08.jpg
-    alt: Alternative Text
+    alt: volunteers unloading boxes of aid from a truck
 ---
 
 This is the detailed project description shown on the project page.

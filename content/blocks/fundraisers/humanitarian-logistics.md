@@ -6,15 +6,15 @@ abstract: |-
   Integer feugiat nibh at feugiat dictum. Aliquam non tortor at diam congue posuere.
 gallery:
   - url: /uploads/fundraisers/humanitarian-logistics-hero.jpg
-    alt: Alternative Text, but very long to show wrapping of alternative text.
+    alt: a container port
   - url: /uploads/fundraisers/humanitarian-logistics-gallery-02.jpg
-    alt: Alternative Text
+    alt: a person using a circular saw to remove the locks on a container
   - url: /uploads/fundraisers/humanitarian-logistics-gallery-03.jpg
-    alt: Alternative Text
+    alt: two people loading boxes into a container
   - url: /uploads/fundraisers/humanitarian-logistics-gallery-04.jpg
-    alt: Alternative Text
+    alt: a forklift loading boxes onto a truck; the truck has the word ‘Logistics’ written across it
   - url: /uploads/fundraisers/humanitarian-logistics-gallery-05.jpg
-    alt: Alternative Text
+    alt: a person in PPE gear, fumigating a truck full of boxes
 allocations:
   - date: 2022-10-01
     amountEUR: 1000

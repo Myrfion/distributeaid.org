@@ -6,17 +6,17 @@ abstract: |-
   Aenean ultricies enim augue, eu dictum nisl eleifend quis. Nam consequat, massa id porttitor finibus, augue dolor sagittis felis, vel pellentesque odio nibh in erat.
 gallery:
   - url: /uploads/fundraisers/sustainable-supply-chains-hero.jpg
-    alt: Alternative Text, but very long to show wrapping of alternative text.
+    alt: a computer screen displaying code
   - url: /uploads/fundraisers/tech-for-good-hero.jpg
-    alt: Alternative Text
+    alt: a volunteer holding up some clothes to a little girl to check for size
   - url: /uploads/fundraisers/sustainable-supply-chains-gallery-02.jpg
-    alt: Alternative Text
+    alt: aerial view of a truck driving on a road through a forest
   - url: /uploads/fundraisers/sustainable-supply-chains-gallery-03.jpg
-    alt: Alternative Text
+    alt: volunteers loading a truck of boxes of aid items
   - url: /uploads/fundraisers/sustainable-supply-chains-gallery-04.jpg
-    alt: Alternative Text
+    alt: volunteers loading a truck of boxes of aid items
   - url: /uploads/fundraisers/sustainable-supply-chains-gallery-05.jpg
-    alt: Alternative Text
+    alt: volunteers loading boxes of aid items into a truck that is filled at full capacity
 allocations:
   - date: 2022-10-01
     amountEUR: 2000

@@ -6,19 +6,19 @@ abstract: |-
   In finibus sapien ac dui ornare, sit amet interdum felis tincidunt. Fusce ultricies, urna in cursus laoreet, felis tortor tempus turpis, ac molestie nulla magna eu nibh. Phasellus luctus dignissim ornare. 
 gallery:
   - url: /uploads/fundraisers/us-disaster-relief-hero.jpg
-    alt: Alternative Text, but very long to show wrapping of alternative text.
+    alt: a girl holding up an illustrated book in front of her face in a class setting
   - url: /uploads/fundraisers/us-disaster-relief-gallery-02.jpg
-    alt: Alternative Text
+    alt: volunteers stacking donations of water
   - url: /uploads/fundraisers/us-disaster-relief-gallery-03.jpg
-    alt: Alternative Text
+    alt: volunteers distributing donations on a table set up next to a car
   - url: /uploads/fundraisers/us-disaster-relief-gallery-04.jpg
-    alt: Alternative Text
+    alt: individuals and children with luggage waiting to get on a bus
   - url: /uploads/fundraisers/us-disaster-relief-gallery-05.jpg
-    alt: Alternative Text
+    alt: a warehouse filled with lots of boxes of donations
   - url: /uploads/fundraisers/us-disaster-relief-gallery-06.jpg
-    alt: Alternative Text
+    alt: a team of volunteers posing next to a truck of donations they have loaded
   - url: /uploads/fundraisers/us-disaster-relief-gallery-07.jpg
-    alt: Alternative Text
+    alt: "a distribution of donations including: socks, scarfs, hand warmers, and informative leaflets"
 allocations:
   - date: 2022-10-01
     amountEUR: 500
