@@ -1619,10 +1619,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@codesee/babel-plugin-instrument@0.388.0":
-  version "0.388.0"
-  resolved "https://registry.yarnpkg.com/@codesee/babel-plugin-instrument/-/babel-plugin-instrument-0.388.0.tgz#66b18e953940bb49c47880177ac21b0b1aa01012"
-  integrity sha512-iyIEHhS/WQsy2SBP92T9OyPGVCmbVD0y2S8k6dVL9NIWbsd59yxaaMZ4p3Nsbv3VbLRax08BxUEcPnlOD3u2Yg==
+"@codesee/babel-plugin-instrument@0.415.0":
+  version "0.415.0"
+  resolved "https://registry.yarnpkg.com/@codesee/babel-plugin-instrument/-/babel-plugin-instrument-0.415.0.tgz#117550b87f440500a129244770c15a295d7506cd"
+  integrity sha512-XMd2g3LUvhGP/zOdVEot4niSfEuWoRdW1l8e01mPX1E5H6LtpzrRetT3T2Nl/VjF6V24JkD7F08/lQdV+XakIw==
   dependencies:
     "@babel/plugin-syntax-jsx" "^7.12.13"
     "@babel/plugin-transform-typescript" "^7.14.4"
